@@ -8,3 +8,4 @@ Author: Independent submission
 Date: January 2026
 
 This work is shared for discussion and educational purposes.
+DOI: https://doi.org/10.5281/zenodo.18180774
